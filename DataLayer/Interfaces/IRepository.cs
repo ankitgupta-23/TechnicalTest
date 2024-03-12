@@ -13,10 +13,11 @@ namespace DataLayer.Interfaces
         public Task<bool> UpdateEntity(Entity entity);
         public Task<bool> DeleteEntity(Entity entity);
 
+        public Task<bool> SaveChangesWithRetry();
+
         public Task<IEnumerable<Entity>> GetEntities();
         
-        public Task<IEnumerable<Entity>> GetFilteredEntities(string searchQuery, string gender, DateTime? startDate, DateTime? endDate, List<string> countries);
-
-        public Task<Entity> GetEntityById(int id);
+        public Task<IEnumerable<Entity>> GetFilteredEntities(string? searchQuery, string? gender, DateTime? startDate, DateTime? endDate, List<string>? countries, string? orderBy, int pageNo=1, int pageSize=5);
+        public Task<Entity> GetEntityById(string id);
     }
 }

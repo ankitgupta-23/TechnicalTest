@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CTaG87htg+FPWY1hz+X8MLnYCnzdGkZx/1VD5MWUcN8XrwDX7Qk98Ac0wSoHceErrDD5fgliJH6Fi7iE9OO3fQ==",
+  "dgSpecHash": "U5nI+vOP+0FGq1KXgRdyvoZwfCtc2n/uVMrAGThtYXVK5zYvMI13MbkKow690GJM7mMLwKE3moc18Psfp4D4Ww==",
   "success": true,
-  "projectFilePath": "E:\\TechnicalTest\\mainapi\\MainAPI.csproj",
+  "projectFilePath": "E:\\TechnicalTest\\MainAPI\\MainAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ankit\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Ankit\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "E:\\TechnicalTest\\mainapi\\MainAPI.csproj": {}
+    "E:\\TechnicalTest\\MainAPI\\MainAPI.csproj": {}
   },
   "projects": {
     "E:\\DataLayer\\DataLayer.csproj": {
@@ -73,14 +73,14 @@
         }
       }
     },
-    "E:\\TechnicalTest\\mainapi\\MainAPI.csproj": {
+    "E:\\TechnicalTest\\MainAPI\\MainAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TechnicalTest\\mainapi\\MainAPI.csproj",
+        "projectUniqueName": "E:\\TechnicalTest\\MainAPI\\MainAPI.csproj",
         "projectName": "MainAPI",
-        "projectPath": "E:\\TechnicalTest\\mainapi\\MainAPI.csproj",
+        "projectPath": "E:\\TechnicalTest\\MainAPI\\MainAPI.csproj",
         "packagesPath": "C:\\Users\\Ankit\\.nuget\\packages\\",
-        "outputPath": "E:\\TechnicalTest\\mainapi\\obj\\",
+        "outputPath": "E:\\TechnicalTest\\MainAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ankit\\AppData\\Roaming\\NuGet\\NuGet.Config",

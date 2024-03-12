@@ -1,0 +1,14 @@
+E:\DataLayer\bin\Debug\net7.0\DataLayer.deps.json
+E:\DataLayer\bin\Debug\net7.0\DataLayer.runtimeconfig.json
+E:\DataLayer\bin\Debug\net7.0\DataLayer.dll
+E:\DataLayer\bin\Debug\net7.0\DataLayer.pdb
+E:\DataLayer\obj\Debug\net7.0\DataLayer.csproj.AssemblyReference.cache
+E:\DataLayer\obj\Debug\net7.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\DataLayer\obj\Debug\net7.0\DataLayer.AssemblyInfoInputs.cache
+E:\DataLayer\obj\Debug\net7.0\DataLayer.AssemblyInfo.cs
+E:\DataLayer\obj\Debug\net7.0\DataLayer.csproj.CoreCompileInputs.cache
+E:\DataLayer\obj\Debug\net7.0\DataLayer.dll
+E:\DataLayer\obj\Debug\net7.0\refint\DataLayer.dll
+E:\DataLayer\obj\Debug\net7.0\DataLayer.pdb
+E:\DataLayer\obj\Debug\net7.0\DataLayer.genruntimeconfig.cache
+E:\DataLayer\obj\Debug\net7.0\ref\DataLayer.dll
